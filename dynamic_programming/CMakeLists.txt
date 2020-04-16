@@ -1,0 +1,8 @@
+﻿cmake_minimum_required (VERSION 3.8)
+			
+add_executable(longest_increased_subsubsequence longest_increased_subsequence.cpp)
+add_executable(longest_common_increased_subsubsequence longest_common_increased_subsequence.cpp)
+add_executable(longest_common_substring longest_common_substring.cpp)
+add_executable(minimum_edit_distance minimum_edit_distance.cpp)
+add_executable(max_valuable_rod_cutting max_valuable_rod_cutting.cpp)
+add_executable(longest_palindromic_substring longest_palindromic_substring.cpp)
