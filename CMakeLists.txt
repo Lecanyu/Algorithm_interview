@@ -8,6 +8,9 @@ add_subdirectory(misc)
 add_subdirectory(binary_search)
 add_subdirectory(computation_geometry)
 add_subdirectory(hash)
+add_subdirectory(graph)
+add_subdirectory(tree)
+
 
 # Install as library
 # we want to differentiate libraries in different modes
